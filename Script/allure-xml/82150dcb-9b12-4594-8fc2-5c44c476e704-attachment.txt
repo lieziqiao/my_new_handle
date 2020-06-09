@@ -1,0 +1,2 @@
+INFO     root:page_wangyi_first.py:78 找到了
+INFO     root:page_wangyi_first.py:79 <appium.webdriver.webelement.WebElement (session="849e46f4-9ec8-44ff-9b9f-a9802ebc40bb", element="5a34f409-8052-4882-a9ca-3df6725f3407")>

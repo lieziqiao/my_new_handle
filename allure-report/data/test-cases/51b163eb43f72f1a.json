@@ -1,0 +1,53 @@
+{
+  "uid" : "51b163eb43f72f1a",
+  "name" : "test_02_requests",
+  "fullName" : "Script.test_login_api.TestDemoApi#test_02_requests",
+  "historyId" : "4363b18417cf051867424c534ce10e03",
+  "time" : {
+    "start" : 1591327693075,
+    "stop" : 1591327693179,
+    "duration" : 104
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Script"
+  }, {
+    "name" : "suite",
+    "value" : "test_login_api"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestDemoApi"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-03F992M"
+  }, {
+    "name" : "thread",
+    "value" : "7956-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Script.test_login_api"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "51b163eb43f72f1a.json",
+  "parameterValues" : [ ]
+}

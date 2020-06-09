@@ -1,0 +1,4 @@
+INFO     root:page_wangyi_first.py:67 {'height': 102, 'width': 121}
+INFO     root:page_wangyi_first.py:69 {'x': 914, 'y': 72}
+INFO     root:page_wangyi_first.py:75 看看
+INFO     root:page_wangyi_first.py:76 ('class name', 'android.widget.TextView')

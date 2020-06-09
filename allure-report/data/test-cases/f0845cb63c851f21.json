@@ -1,0 +1,216 @@
+{
+  "uid" : "f0845cb63c851f21",
+  "name" : "test_login[info1]",
+  "fullName" : "Script.test_login_app.TestLogin#test_login",
+  "historyId" : "3f0a68687d62c4288489363a5467515f",
+  "time" : {
+    "start" : 1591189982477,
+    "stop" : 1591190003667,
+    "duration" : 21190
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1591189893818,
+      "stop" : 1591189893818,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "点击首页中的我",
+      "time" : {
+        "start" : 1591189987481,
+        "stop" : 1591189987907,
+        "duration" : 426
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "点击登陆,跳转去登陆页面",
+      "time" : {
+        "start" : 1591189992909,
+        "stop" : 1591189993054,
+        "duration" : 145
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "登陆业务",
+      "time" : {
+        "start" : 1591189998172,
+        "stop" : 1591190003667,
+        "duration" : 5495
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "输入用户名",
+        "time" : {
+          "start" : 1591189998172,
+          "stop" : 1591189999296,
+          "duration" : 1124
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ {
+          "uid" : "a9bfe05b7b066e6b",
+          "name" : "13922034702",
+          "source" : "a9bfe05b7b066e6b.attach",
+          "type" : "text/plain",
+          "size" : 9
+        } ],
+        "parameters" : [ {
+          "name" : "username",
+          "value" : "'13922034702'"
+        } ],
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 1,
+        "stepsCount" : 0,
+        "hasContent" : true
+      }, {
+        "name" : "点击手机空白的地方",
+        "time" : {
+          "start" : 1591189999296,
+          "stop" : 1591190000120,
+          "duration" : 824
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 0,
+        "stepsCount" : 0,
+        "hasContent" : false
+      }, {
+        "name" : "输入密码",
+        "time" : {
+          "start" : 1591190000120,
+          "stop" : 1591190002130,
+          "duration" : 2010
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ {
+          "uid" : "5373b6dfb090de1a",
+          "name" : "1382000",
+          "source" : "5373b6dfb090de1a.attach",
+          "type" : "text/plain",
+          "size" : 6
+        } ],
+        "parameters" : [ {
+          "name" : "password",
+          "value" : "'1382000'"
+        } ],
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 1,
+        "stepsCount" : 0,
+        "hasContent" : true
+      } ],
+      "attachments" : [ {
+        "uid" : "93249c7db289fb3f",
+        "name" : "输入账号和密码后",
+        "source" : "93249c7db289fb3f.png",
+        "type" : "image/png",
+        "size" : 77140
+      } ],
+      "parameters" : [ {
+        "name" : "username",
+        "value" : "'13922034702'"
+      }, {
+        "name" : "password",
+        "value" : "'1382000'"
+      } ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 3,
+      "stepsCount" : 3,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 3,
+    "stepsCount" : 6,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1591190010727,
+      "stop" : 1591190010727,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Script"
+  }, {
+    "name" : "suite",
+    "value" : "test_login_app"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestLogin"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-03F992M"
+  }, {
+    "name" : "thread",
+    "value" : "14120-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Script.test_login_app"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "info",
+    "value" : "{'username': '13922034702', 'pwd': '1382000'}"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f0845cb63c851f21.json",
+  "parameterValues" : [ "{'username': '13922034702', 'pwd': '1382000'}" ]
+}

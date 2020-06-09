@@ -1,0 +1,6 @@
+ERROR    root:base_app.py:58 父类下面没有这个子类元素
+INFO     root:page_wangyi_first.py:84 滑屏了
+ERROR    root:base_app.py:58 父类下面没有这个子类元素
+INFO     root:page_wangyi_first.py:84 滑屏了
+INFO     root:page_wangyi_first.py:78 找到了
+INFO     root:page_wangyi_first.py:79 <appium.webdriver.webelement.WebElement (session="cef74c0a-a327-46c5-b462-e61f87bc45c7", element="59ccf5b0-98c3-428a-828c-e78af83d1ab7")>

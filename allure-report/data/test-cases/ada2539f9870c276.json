@@ -1,0 +1,186 @@
+{
+  "uid" : "ada2539f9870c276",
+  "name" : "test_login1[info1]",
+  "fullName" : "Script.test_yaml_ne_login_app.TestLogin#test_login1",
+  "historyId" : "543588589043fe1a1048579c1e1f6d6f",
+  "time" : {
+    "start" : 1591156923768,
+    "stop" : 1591156945795,
+    "duration" : 22027
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "点击首页中的我",
+      "time" : {
+        "start" : 1591156929770,
+        "stop" : 1591156930113,
+        "duration" : 343
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "点击登陆,跳转去登陆页面",
+      "time" : {
+        "start" : 1591156935114,
+        "stop" : 1591156935215,
+        "duration" : 101
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "登陆业务",
+      "time" : {
+        "start" : 1591156940328,
+        "stop" : 1591156945795,
+        "duration" : 5467
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "输入用户名",
+        "time" : {
+          "start" : 1591156940328,
+          "stop" : 1591156941454,
+          "duration" : 1126
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ {
+          "uid" : "639f1ea9f478d2eb",
+          "name" : "13822034001",
+          "source" : "639f1ea9f478d2eb.attach",
+          "type" : "text/plain",
+          "size" : 9
+        } ],
+        "parameters" : [ {
+          "name" : "username",
+          "value" : "13822034001"
+        } ],
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 1,
+        "stepsCount" : 0,
+        "hasContent" : true
+      }, {
+        "name" : "点击手机空白的地方",
+        "time" : {
+          "start" : 1591156941454,
+          "stop" : 1591156942242,
+          "duration" : 788
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 0,
+        "stepsCount" : 0,
+        "hasContent" : false
+      }, {
+        "name" : "输入密码",
+        "time" : {
+          "start" : 1591156942242,
+          "stop" : 1591156944268,
+          "duration" : 2026
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ {
+          "uid" : "1ae1adbdf3046c79",
+          "name" : "1382000",
+          "source" : "1ae1adbdf3046c79.attach",
+          "type" : "text/plain",
+          "size" : 6
+        } ],
+        "parameters" : [ {
+          "name" : "password",
+          "value" : "1382000"
+        } ],
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 1,
+        "stepsCount" : 0,
+        "hasContent" : true
+      } ],
+      "attachments" : [ {
+        "uid" : "3c4633dafc7f4871",
+        "name" : "输入账号和密码后",
+        "source" : "3c4633dafc7f4871.png",
+        "type" : "image/png",
+        "size" : 76627
+      } ],
+      "parameters" : [ {
+        "name" : "username",
+        "value" : "13822034001"
+      }, {
+        "name" : "password",
+        "value" : "1382000"
+      } ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 3,
+      "stepsCount" : 3,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 3,
+    "stepsCount" : 6,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Script"
+  }, {
+    "name" : "suite",
+    "value" : "test_yaml_ne_login_app"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestLogin"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-03F992M"
+  }, {
+    "name" : "thread",
+    "value" : "12016-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Script.test_yaml_ne_login_app"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "info",
+    "value" : "{'username': 13822034001, 'pwd': 1382000}"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ada2539f9870c276.json",
+  "parameterValues" : [ "{'username': 13822034001, 'pwd': 1382000}" ]
+}

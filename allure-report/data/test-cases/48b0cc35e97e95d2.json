@@ -1,0 +1,93 @@
+{
+  "uid" : "48b0cc35e97e95d2",
+  "name" : "test_login_yaml_api[info1]",
+  "fullName" : "Script.test_alfred_login_api_perfect.TestAlfredLoginApi#test_login_yaml_api",
+  "historyId" : "d961f1b2bdc889280346400ef7026ed1",
+  "time" : {
+    "start" : 1591323783853,
+    "stop" : 1591323783957,
+    "duration" : 104
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "调用alfred的web端登陆接口",
+      "time" : {
+        "start" : 1591323783854,
+        "stop" : 1591323783957,
+        "duration" : 103
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "355eb54dfeac9ae",
+        "name" : "256f6fc4-efba-41dd-94c7-78b5cc7bd123-attachment.attach",
+        "source" : "355eb54dfeac9ae.attach",
+        "type" : "text/plain",
+        "size" : 35
+      } ],
+      "parameters" : [ {
+        "name" : "session",
+        "value" : "<requests.sessions.Session object at 0x03EC36B0>"
+      }, {
+        "name" : "data",
+        "value" : "{'username': 'lie', 'password': 123456}"
+      } ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1,
+      "stepsCount" : 0,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 1,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Script"
+  }, {
+    "name" : "suite",
+    "value" : "test_alfred_login_api_perfect"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestAlfredLoginApi"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-03F992M"
+  }, {
+    "name" : "thread",
+    "value" : "4768-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Script.test_alfred_login_api_perfect"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "info",
+    "value" : "{'username': 'lie', 'password': 123456}"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "48b0cc35e97e95d2.json",
+  "parameterValues" : [ "{'username': 'lie', 'password': 123456}" ]
+}

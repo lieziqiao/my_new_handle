@@ -1,0 +1,5 @@
+[1m[31mERROR   [0m root:base_app.py:57 父类下面没有这个子类元素
+[1m[31mERROR   [0m root:base_app.py:57 父类下面没有这个子类元素
+[1m[31mERROR   [0m root:base_app.py:57 父类下面没有这个子类元素
+[1m[31mERROR   [0m root:base_app.py:57 父类下面没有这个子类元素
+[1m[31mERROR   [0m root:base_app.py:57 父类下面没有这个子类元素

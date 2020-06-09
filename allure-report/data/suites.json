@@ -1,0 +1,265 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Script",
+    "children" : [ {
+      "name" : "test_commit_order_api",
+      "children" : [ {
+        "name" : "TestToday",
+        "children" : [ {
+          "name" : "test_commit_order_api",
+          "uid" : "95e411646a6d8412",
+          "parentUid" : "c174d7b74ce5e0d15552cd8b1cd69af8",
+          "status" : "passed",
+          "time" : {
+            "start" : 1591166636770,
+            "stop" : 1591166637055,
+            "duration" : 285
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "c174d7b74ce5e0d15552cd8b1cd69af8"
+      }, {
+        "name" : "TestCommitOrder",
+        "children" : [ {
+          "name" : "test_commit_order_api",
+          "uid" : "baa054a448caf990",
+          "parentUid" : "bcbf15e97d4433ef636e18fdea95844c",
+          "status" : "passed",
+          "time" : {
+            "start" : 1591664154411,
+            "stop" : 1591664154847,
+            "duration" : 436
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "bcbf15e97d4433ef636e18fdea95844c"
+      } ],
+      "uid" : "c2fb0b11f19a40f4d489c5dc7923bfcb"
+    }, {
+      "name" : "test_channel_app",
+      "children" : [ {
+        "name" : "TestChannel",
+        "children" : [ {
+          "name" : "test_02_channel",
+          "uid" : "11a7418f6b0df34e",
+          "parentUid" : "f5a50dd8298e8d728aa2f53f71d200c9",
+          "status" : "passed",
+          "time" : {
+            "start" : 1591337576003,
+            "stop" : 1591337599238,
+            "duration" : 23235
+          },
+          "flaky" : true,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_channel",
+          "uid" : "545fd38b2ce50f4f",
+          "parentUid" : "f5a50dd8298e8d728aa2f53f71d200c9",
+          "status" : "passed",
+          "time" : {
+            "start" : 1591664089764,
+            "stop" : 1591664147371,
+            "duration" : 57607
+          },
+          "flaky" : true,
+          "parameters" : [ ]
+        } ],
+        "uid" : "f5a50dd8298e8d728aa2f53f71d200c9"
+      } ],
+      "uid" : "b4a97151d13b7d90f8f7fae532ed32dc"
+    }, {
+      "name" : "test_alfred_login_api_perfect",
+      "children" : [ {
+        "name" : "TestAlfredLoginApi",
+        "children" : [ {
+          "name" : "test_login_yaml_api[info0]",
+          "uid" : "c9b61508e6d02865",
+          "parentUid" : "498bb21e68d69eafc10b3108f8860dbf",
+          "status" : "passed",
+          "time" : {
+            "start" : 1591664050622,
+            "stop" : 1591664050742,
+            "duration" : 120
+          },
+          "flaky" : false,
+          "parameters" : [ "{'username': 'docking', 'password': 123456}" ]
+        }, {
+          "name" : "test_login_yaml_api[info1]",
+          "uid" : "d34e18547a31573e",
+          "parentUid" : "498bb21e68d69eafc10b3108f8860dbf",
+          "status" : "passed",
+          "time" : {
+            "start" : 1591664050747,
+            "stop" : 1591664050850,
+            "duration" : 103
+          },
+          "flaky" : false,
+          "parameters" : [ "{'username': 'lie', 'password': 123456}" ]
+        } ],
+        "uid" : "498bb21e68d69eafc10b3108f8860dbf"
+      } ],
+      "uid" : "1e4ce34edf8390f5f743f0a3db81e88e"
+    }, {
+      "name" : "test_baidu",
+      "children" : [ {
+        "name" : "TestBaidu",
+        "children" : [ {
+          "name" : "test_open_baidu",
+          "uid" : "9f500857f2f9caea",
+          "parentUid" : "a096d688f0719a388bca29ac66668154",
+          "status" : "passed",
+          "time" : {
+            "start" : 1591664054238,
+            "stop" : 1591664056874,
+            "duration" : 2636
+          },
+          "flaky" : true,
+          "parameters" : [ ]
+        } ],
+        "uid" : "a096d688f0719a388bca29ac66668154"
+      } ],
+      "uid" : "488aa15864fcc83102905df740a383f7"
+    }, {
+      "name" : "test_demo_docking",
+      "children" : [ {
+        "name" : "TestDemo",
+        "children" : [ {
+          "name" : "test_01",
+          "uid" : "8b4e3f2fdd3fcebc",
+          "parentUid" : "18ffbefcf8b6afc9591273abb857d96f",
+          "status" : "passed",
+          "time" : {
+            "start" : 1591664154852,
+            "stop" : 1591664155052,
+            "duration" : 200
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "18ffbefcf8b6afc9591273abb857d96f"
+      } ],
+      "uid" : "de934b0666ebb37d2b343daee482a8fb"
+    }, {
+      "name" : "test_login_api",
+      "children" : [ {
+        "name" : "TestDemoApi",
+        "children" : [ {
+          "name" : "test_01_session",
+          "uid" : "aa5e8f8a463109ac",
+          "parentUid" : "f8a7a087d5a1bb2a2550f4a2bfa0601d",
+          "status" : "passed",
+          "time" : {
+            "start" : 1591664155056,
+            "stop" : 1591664155170,
+            "duration" : 114
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_02_requests",
+          "uid" : "a0a8724bdacccabc",
+          "parentUid" : "f8a7a087d5a1bb2a2550f4a2bfa0601d",
+          "status" : "passed",
+          "time" : {
+            "start" : 1591664155174,
+            "stop" : 1591664155280,
+            "duration" : 106
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "f8a7a087d5a1bb2a2550f4a2bfa0601d"
+      } ],
+      "uid" : "dc37793eb97e53d642f442a61c65b04f"
+    }, {
+      "name" : "test_login_app",
+      "children" : [ {
+        "name" : "TestLogin",
+        "children" : [ {
+          "name" : "test_login[info0]",
+          "uid" : "be81c20f75b725b",
+          "parentUid" : "85ff76165413179289dc555e339de343",
+          "status" : "passed",
+          "time" : {
+            "start" : 1591664293256,
+            "stop" : 1591664314538,
+            "duration" : 21282
+          },
+          "flaky" : true,
+          "parameters" : [ "{'username': '13922034602', 'pwd': '10086'}" ]
+        }, {
+          "name" : "test_login[info1]",
+          "uid" : "13de25b018280cd4",
+          "parentUid" : "85ff76165413179289dc555e339de343",
+          "status" : "passed",
+          "time" : {
+            "start" : 1591664358321,
+            "stop" : 1591664379487,
+            "duration" : 21166
+          },
+          "flaky" : true,
+          "parameters" : [ "{'username': '13922034702', 'pwd': '1382000'}" ]
+        } ],
+        "uid" : "85ff76165413179289dc555e339de343"
+      } ],
+      "uid" : "605e06411f1d801be3a354e461d031ad"
+    }, {
+      "name" : "test_order500_api",
+      "children" : [ {
+        "name" : "TestOrder500",
+        "children" : [ {
+          "name" : "test_commit_order_api_0",
+          "uid" : "e65e97f723e13123",
+          "parentUid" : "5a0f6d2364523895575d17fc87168665",
+          "status" : "passed",
+          "time" : {
+            "start" : 1591664386471,
+            "stop" : 1591664449107,
+            "duration" : 62636
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "5a0f6d2364523895575d17fc87168665"
+      } ],
+      "uid" : "e4593fd82934b0ae33fcc2ee5af31ec4"
+    }, {
+      "name" : "test_yaml_ne_login_app",
+      "children" : [ {
+        "name" : "TestLogin",
+        "children" : [ {
+          "name" : "test_login1[info0]",
+          "uid" : "e06671de4b039dd7",
+          "parentUid" : "2f5ea9e81bc89b2f60ac3ba8f4b7ebe1",
+          "status" : "passed",
+          "time" : {
+            "start" : 1591664713973,
+            "stop" : 1591664736101,
+            "duration" : 22128
+          },
+          "flaky" : true,
+          "parameters" : [ "{'username': 13822034000, 'pwd': 10086}" ]
+        }, {
+          "name" : "test_login1[info1]",
+          "uid" : "7bc3411c733237be",
+          "parentUid" : "2f5ea9e81bc89b2f60ac3ba8f4b7ebe1",
+          "status" : "passed",
+          "time" : {
+            "start" : 1591664775493,
+            "stop" : 1591664797523,
+            "duration" : 22030
+          },
+          "flaky" : true,
+          "parameters" : [ "{'username': 13822034001, 'pwd': 1382000}" ]
+        } ],
+        "uid" : "2f5ea9e81bc89b2f60ac3ba8f4b7ebe1"
+      } ],
+      "uid" : "4b7cd5333a4ecdae4de25e401bd19857"
+    } ],
+    "uid" : "1b1eec489482767f6a14b3beeb68bf9c"
+  } ]
+}

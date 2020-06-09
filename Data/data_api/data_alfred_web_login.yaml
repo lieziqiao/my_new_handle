@@ -1,0 +1,16 @@
+#存储alfred项目web端登陆需要的数据, 字典嵌套字典的形式
+login_successful:
+  login_success1:
+    username: docking
+    password: 123456
+  login_success2:
+    username: lie
+    password: 123456
+login_eerror:
+  login_eerror1:
+    username: docing
+    password: 12345
+  login_eerror2:
+    username: lie
+    password: ""
+

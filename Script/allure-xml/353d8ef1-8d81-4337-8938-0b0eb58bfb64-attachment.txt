@@ -1,0 +1,2 @@
+INFO     root:page_wangyi_first.py:73 看看
+INFO     root:page_wangyi_first.py:74 ('class name', 'android.widget.TextView')

@@ -1,0 +1,5 @@
+[32mINFO    [0m root:base_app.py:60 父类下面没有这个子类元素
+[32mINFO    [0m root:base_app.py:60 父类下面没有这个子类元素
+[32mINFO    [0m root:base_app.py:60 父类下面没有这个子类元素
+[32mINFO    [0m root:base_app.py:60 父类下面没有这个子类元素
+[32mINFO    [0m root:base_app.py:60 父类下面没有这个子类元素

@@ -1,0 +1,120 @@
+{
+  "uid" : "70c28c176e713956",
+  "name" : "test_commit_order_api",
+  "fullName" : "Script.test_commit_order_api.TestCommitOrder#test_commit_order_api",
+  "historyId" : "bca6ddbc295c6a98b06cee433fb724c2",
+  "time" : {
+    "start" : 1591320750074,
+    "stop" : 1591320750368,
+    "duration" : 294
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1591320750073,
+      "stop" : 1591320750073,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "调用alfred的web端登陆接口",
+      "time" : {
+        "start" : 1591320750074,
+        "stop" : 1591320750205,
+        "duration" : 131
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "baebcabac4d28b1d",
+        "name" : "627f7b91-f084-4361-a34d-d6c872474aa4-attachment.attach",
+        "source" : "baebcabac4d28b1d.attach",
+        "type" : "text/plain",
+        "size" : 37
+      } ],
+      "parameters" : [ {
+        "name" : "session",
+        "value" : "<requests.sessions.Session object at 0x04E49850>"
+      }, {
+        "name" : "data",
+        "value" : "{'username': 'allan', 'password': '888888'}"
+      } ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1,
+      "stepsCount" : 0,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 1,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1591320750368,
+      "stop" : 1591320750369,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Script"
+  }, {
+    "name" : "suite",
+    "value" : "test_commit_order_api"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestCommitOrder"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-03F992M"
+  }, {
+    "name" : "thread",
+    "value" : "11760-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Script.test_commit_order_api"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "70c28c176e713956.json",
+  "parameterValues" : [ ]
+}

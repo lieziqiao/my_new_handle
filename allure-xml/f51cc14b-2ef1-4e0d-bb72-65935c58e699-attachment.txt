@@ -1,0 +1,14 @@
+[32mINFO    [0m root:base_app.py:157 看看基类库里参数('id', 'com.netease.newsreader.activity:id/bn9')财经小说
+[32mINFO    [0m root:base_app.py:65 父类下面没有这个子类元素
+[32mINFO    [0m root:base_app.py:32 没有找到这个元素
+[32mINFO    [0m root:base_app.py:65 父类下面没有这个子类元素
+[32mINFO    [0m root:base_app.py:157 看看基类库里参数('id', 'com.netease.newsreader.activity:id/bn9')财经小说
+[32mINFO    [0m root:base_app.py:65 父类下面没有这个子类元素
+[32mINFO    [0m root:base_app.py:65 父类下面没有这个子类元素
+[32mINFO    [0m root:base_app.py:65 父类下面没有这个子类元素
+[32mINFO    [0m root:base_app.py:65 父类下面没有这个子类元素
+[32mINFO    [0m root:base_app.py:65 父类下面没有这个子类元素
+[32mINFO    [0m root:base_app.py:65 父类下面没有这个子类元素
+[32mINFO    [0m root:base_app.py:65 父类下面没有这个子类元素
+[32mINFO    [0m root:base_app.py:65 父类下面没有这个子类元素
+[32mINFO    [0m root:base_app.py:65 父类下面没有这个子类元素

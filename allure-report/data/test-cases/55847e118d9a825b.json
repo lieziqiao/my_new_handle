@@ -1,0 +1,120 @@
+{
+  "uid" : "55847e118d9a825b",
+  "name" : "test_02_channel",
+  "fullName" : "Script.test_channel_app.TestChannel#test_02_channel",
+  "historyId" : "e8574fa102c67a2fa6d2bdc59976ad97",
+  "time" : {
+    "start" : 1591336607748,
+    "stop" : 1591336631780,
+    "duration" : 24032
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1591336578627,
+      "stop" : 1591336578627,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "去导航栏里选择频道",
+      "time" : {
+        "start" : 1591336611749,
+        "stop" : 1591336631780,
+        "duration" : 20031
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "sub_ele",
+        "value" : "'财经'"
+      }, {
+        "name" : "last_sub",
+        "value" : "'小说'"
+      } ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : true
+    } ],
+    "attachments" : [ {
+      "uid" : "bb510b04975cf6e1",
+      "name" : "log",
+      "source" : "bb510b04975cf6e1.txt",
+      "type" : "text/plain",
+      "size" : 374
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 1,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1591336638460,
+      "stop" : 1591336638460,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Script"
+  }, {
+    "name" : "suite",
+    "value" : "test_channel_app"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestChannel"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-03F992M"
+  }, {
+    "name" : "thread",
+    "value" : "12016-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Script.test_channel_app"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "55847e118d9a825b.json",
+  "parameterValues" : [ ]
+}

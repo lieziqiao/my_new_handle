@@ -1,0 +1,15 @@
+#登陆需要的数据
+login_successful :
+  login_success1 :
+    username: 13822034000
+    pwd: 10086
+  login_success2 :
+    username: 13822034001
+    pwd: 1382000
+login_eerror :
+  ena1:
+    username: 139
+    pwd: 10086
+  ena2 :
+    username: 10086
+    pwd: 1

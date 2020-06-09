@@ -1,0 +1,151 @@
+[ {
+  "uid" : "9f500857f2f9caea",
+  "name" : "test_open_baidu",
+  "time" : {
+    "start" : 1591664054238,
+    "stop" : 1591664056874,
+    "duration" : 2636
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "13de25b018280cd4",
+  "name" : "test_login[info1]",
+  "time" : {
+    "start" : 1591664358321,
+    "stop" : 1591664379487,
+    "duration" : 21166
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "baa054a448caf990",
+  "name" : "test_commit_order_api",
+  "time" : {
+    "start" : 1591664154411,
+    "stop" : 1591664154847,
+    "duration" : 436
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "11a7418f6b0df34e",
+  "name" : "test_02_channel",
+  "time" : {
+    "start" : 1591337576003,
+    "stop" : 1591337599238,
+    "duration" : 23235
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d34e18547a31573e",
+  "name" : "test_login_yaml_api[info1]",
+  "time" : {
+    "start" : 1591664050747,
+    "stop" : 1591664050850,
+    "duration" : 103
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7bc3411c733237be",
+  "name" : "test_login1[info1]",
+  "time" : {
+    "start" : 1591664775493,
+    "stop" : 1591664797523,
+    "duration" : 22030
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a0a8724bdacccabc",
+  "name" : "test_02_requests",
+  "time" : {
+    "start" : 1591664155174,
+    "stop" : 1591664155280,
+    "duration" : 106
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8b4e3f2fdd3fcebc",
+  "name" : "test_01",
+  "time" : {
+    "start" : 1591664154852,
+    "stop" : 1591664155052,
+    "duration" : 200
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e06671de4b039dd7",
+  "name" : "test_login1[info0]",
+  "time" : {
+    "start" : 1591664713973,
+    "stop" : 1591664736101,
+    "duration" : 22128
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "aa5e8f8a463109ac",
+  "name" : "test_01_session",
+  "time" : {
+    "start" : 1591664155056,
+    "stop" : 1591664155170,
+    "duration" : 114
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e65e97f723e13123",
+  "name" : "test_commit_order_api_0",
+  "time" : {
+    "start" : 1591664386471,
+    "stop" : 1591664449107,
+    "duration" : 62636
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "545fd38b2ce50f4f",
+  "name" : "test_channel",
+  "time" : {
+    "start" : 1591664089764,
+    "stop" : 1591664147371,
+    "duration" : 57607
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "be81c20f75b725b",
+  "name" : "test_login[info0]",
+  "time" : {
+    "start" : 1591664293256,
+    "stop" : 1591664314538,
+    "duration" : 21282
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "95e411646a6d8412",
+  "name" : "test_commit_order_api",
+  "time" : {
+    "start" : 1591166636770,
+    "stop" : 1591166637055,
+    "duration" : 285
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c9b61508e6d02865",
+  "name" : "test_login_yaml_api[info0]",
+  "time" : {
+    "start" : 1591664050622,
+    "stop" : 1591664050742,
+    "duration" : 120
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

@@ -1,0 +1,439 @@
+{
+  "uid" : "7bc3411c733237be",
+  "name" : "test_login1[info1]",
+  "fullName" : "Script.test_yaml_ne_login_app.TestLogin#test_login1",
+  "historyId" : "543588589043fe1a1048579c1e1f6d6f",
+  "time" : {
+    "start" : 1591664775493,
+    "stop" : 1591664797523,
+    "duration" : 22030
+  },
+  "status" : "passed",
+  "flaky" : true,
+  "beforeStages" : [ {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1591664449112,
+      "stop" : 1591664449112,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "点击首页中的我",
+      "time" : {
+        "start" : 1591664781495,
+        "stop" : 1591664781854,
+        "duration" : 359
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "点击登陆,跳转去登陆页面",
+      "time" : {
+        "start" : 1591664786856,
+        "stop" : 1591664786949,
+        "duration" : 93
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "登陆业务",
+      "time" : {
+        "start" : 1591664792067,
+        "stop" : 1591664797523,
+        "duration" : 5456
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "输入用户名",
+        "time" : {
+          "start" : 1591664792067,
+          "stop" : 1591664793189,
+          "duration" : 1122
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ {
+          "uid" : "3d40765b9dd2ca6d",
+          "name" : "13822034001",
+          "source" : "3d40765b9dd2ca6d.attach",
+          "type" : "text/plain",
+          "size" : 9
+        } ],
+        "parameters" : [ {
+          "name" : "username",
+          "value" : "13822034001"
+        } ],
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 1,
+        "stepsCount" : 0,
+        "hasContent" : true
+      }, {
+        "name" : "点击手机空白的地方",
+        "time" : {
+          "start" : 1591664793189,
+          "stop" : 1591664794000,
+          "duration" : 811
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 0,
+        "stepsCount" : 0,
+        "hasContent" : false
+      }, {
+        "name" : "输入密码",
+        "time" : {
+          "start" : 1591664794000,
+          "stop" : 1591664795995,
+          "duration" : 1995
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ {
+          "uid" : "ce1b0f026cc1a276",
+          "name" : "1382000",
+          "source" : "ce1b0f026cc1a276.attach",
+          "type" : "text/plain",
+          "size" : 6
+        } ],
+        "parameters" : [ {
+          "name" : "password",
+          "value" : "1382000"
+        } ],
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 1,
+        "stepsCount" : 0,
+        "hasContent" : true
+      } ],
+      "attachments" : [ {
+        "uid" : "f48a7702232ef572",
+        "name" : "输入账号和密码后",
+        "source" : "f48a7702232ef572.png",
+        "type" : "image/png",
+        "size" : 83986
+      } ],
+      "parameters" : [ {
+        "name" : "username",
+        "value" : "13822034001"
+      }, {
+        "name" : "password",
+        "value" : "1382000"
+      } ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 3,
+      "stepsCount" : 3,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 3,
+    "stepsCount" : 6,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1591664806682,
+      "stop" : 1591664806682,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Script"
+  }, {
+    "name" : "suite",
+    "value" : "test_yaml_ne_login_app"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestLogin"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-03F992M"
+  }, {
+    "name" : "thread",
+    "value" : "300-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Script.test_yaml_ne_login_app"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "info",
+    "value" : "{'username': 13822034001, 'pwd': 1382000}"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "da3e08906cfc8274",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591605043176,
+        "stop" : 1591605066279,
+        "duration" : 23103
+      }
+    }, {
+      "uid" : "f3b7fcdc8a43ed05",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591579365224,
+        "stop" : 1591579395566,
+        "duration" : 30342
+      }
+    }, {
+      "uid" : "b0ed8222a91d52f1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591347739526,
+        "stop" : 1591347761644,
+        "duration" : 22118
+      }
+    }, {
+      "uid" : "3749d219f8f6f863",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591338090479,
+        "stop" : 1591338112592,
+        "duration" : 22113
+      }
+    }, {
+      "uid" : "4366b5e6d4dc08cb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591336887315,
+        "stop" : 1591336909480,
+        "duration" : 22165
+      }
+    }, {
+      "uid" : "8e255a97c056a6f2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591327944313,
+        "stop" : 1591327966534,
+        "duration" : 22221
+      }
+    }, {
+      "uid" : "4fbdcab40fdff127",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591324287932,
+        "stop" : 1591324310051,
+        "duration" : 22119
+      }
+    }, {
+      "uid" : "cb84e8e8d41b92dd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591322374245,
+        "stop" : 1591322396236,
+        "duration" : 21991
+      }
+    }, {
+      "uid" : "2ae9af4f486a6ec3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591321709081,
+        "stop" : 1591321731001,
+        "duration" : 21920
+      }
+    }, {
+      "uid" : "9047e491d894b2b5",
+      "status" : "broken",
+      "statusDetails" : "AttributeError: 'NoneType' object has no attribute 'clear'",
+      "time" : {
+        "start" : 1591321481480,
+        "stop" : 1591321675212,
+        "duration" : 193732
+      }
+    }, {
+      "uid" : "b3e258cf36de48a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591321002757,
+        "stop" : 1591321025781,
+        "duration" : 23024
+      }
+    }, {
+      "uid" : "eeec5e4c0534aee4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591255047746,
+        "stop" : 1591255069826,
+        "duration" : 22080
+      }
+    }, {
+      "uid" : "a1259db891fa65a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591253471838,
+        "stop" : 1591253493881,
+        "duration" : 22043
+      }
+    }, {
+      "uid" : "6f21ba468e41fcf1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591250148910,
+        "stop" : 1591250170951,
+        "duration" : 22041
+      }
+    }, {
+      "uid" : "63aac30a77510e80",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591249621802,
+        "stop" : 1591249643814,
+        "duration" : 22012
+      }
+    }, {
+      "uid" : "6e675c431f1d2001",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.WebDriverException: Message: An unknown server-side error occurred while processing the command. Original error: Swipe did not complete successfully",
+      "time" : {
+        "start" : 1591249574631,
+        "stop" : 1591249588587,
+        "duration" : 13956
+      }
+    }, {
+      "uid" : "cf0aa1c29f21c1b1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591233658967,
+        "stop" : 1591233681091,
+        "duration" : 22124
+      }
+    }, {
+      "uid" : "469f4deafc80dc66",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591232479486,
+        "stop" : 1591232501526,
+        "duration" : 22040
+      }
+    }, {
+      "uid" : "974a7be7dac25457",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591190150640,
+        "stop" : 1591190172790,
+        "duration" : 22150
+      }
+    }, {
+      "uid" : "1c788d2e2e55dfcb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591167498150,
+        "stop" : 1591167520194,
+        "duration" : 22044
+      }
+    }, {
+      "uid" : "7ac069eebac8e09f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591166891440,
+        "stop" : 1591166913603,
+        "duration" : 22163
+      }
+    }, {
+      "uid" : "ada2539f9870c276",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591156923768,
+        "stop" : 1591156945795,
+        "duration" : 22027
+      }
+    }, {
+      "uid" : "50f6cc669e459754",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591156184535,
+        "stop" : 1591156206903,
+        "duration" : 22368
+      }
+    }, {
+      "uid" : "4f805f8f1a856b86",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591153230299,
+        "stop" : 1591153252383,
+        "duration" : 22084
+      }
+    }, {
+      "uid" : "548dd80de4d2c3cb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591152443238,
+        "stop" : 1591152465354,
+        "duration" : 22116
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "1c2add7b20759036",
+        "status" : "passed",
+        "time" : {
+          "start" : 1591152443238,
+          "stop" : 1591152465354,
+          "duration" : 22116
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "7bc3411c733237be.json",
+  "parameterValues" : [ "{'username': 13822034001, 'pwd': 1382000}" ]
+}

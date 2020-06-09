@@ -1,0 +1,93 @@
+{
+  "uid" : "29745ac431b4405d",
+  "name" : "test_login_yaml_api[info0]",
+  "fullName" : "Script.test_alfred_login_api_perfect.TestAlfredLoginApi#test_login_yaml_api",
+  "historyId" : "07a6c85a274cec5bc8a8d3560313645c",
+  "time" : {
+    "start" : 1591249815082,
+    "stop" : 1591249815205,
+    "duration" : 123
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "调用alfred的web端登陆接口",
+      "time" : {
+        "start" : 1591249815082,
+        "stop" : 1591249815205,
+        "duration" : 123
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "8a8db97da4323350",
+        "name" : "98480f29-0f62-4402-85cc-729e7ee5a6cc-attachment.attach",
+        "source" : "8a8db97da4323350.attach",
+        "type" : "text/plain",
+        "size" : 39
+      } ],
+      "parameters" : [ {
+        "name" : "session",
+        "value" : "<requests.sessions.Session object at 0x04ABE670>"
+      }, {
+        "name" : "data",
+        "value" : "{'username': 'docking', 'password': 123456}"
+      } ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1,
+      "stepsCount" : 0,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 1,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Script"
+  }, {
+    "name" : "suite",
+    "value" : "test_alfred_login_api_perfect"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestAlfredLoginApi"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-03F992M"
+  }, {
+    "name" : "thread",
+    "value" : "10616-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Script.test_alfred_login_api_perfect"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "info",
+    "value" : "{'username': 'docking', 'password': 123456}"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "29745ac431b4405d.json",
+  "parameterValues" : [ "{'username': 'docking', 'password': 123456}" ]
+}

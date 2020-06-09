@@ -1,0 +1,14 @@
+ERROR    root:base_app.py:57 父类下面没有这个子类元素
+INFO     root:page_wangyi_first.py:89 滑屏了
+ERROR    root:base_app.py:57 父类下面没有这个子类元素
+INFO     root:page_wangyi_first.py:89 滑屏了
+ERROR    root:base_app.py:57 父类下面没有这个子类元素
+INFO     root:page_wangyi_first.py:89 滑屏了
+ERROR    root:base_app.py:57 父类下面没有这个子类元素
+INFO     root:page_wangyi_first.py:89 滑屏了
+ERROR    root:base_app.py:57 父类下面没有这个子类元素
+INFO     root:page_wangyi_first.py:89 滑屏了
+ERROR    root:base_app.py:57 父类下面没有这个子类元素
+INFO     root:page_wangyi_first.py:89 滑屏了
+ERROR    root:base_app.py:57 父类下面没有这个子类元素
+INFO     root:page_wangyi_first.py:89 滑屏了

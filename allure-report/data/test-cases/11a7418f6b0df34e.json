@@ -1,0 +1,246 @@
+{
+  "uid" : "11a7418f6b0df34e",
+  "name" : "test_02_channel",
+  "fullName" : "Script.test_channel_app.TestChannel#test_02_channel",
+  "historyId" : "e8574fa102c67a2fa6d2bdc59976ad97",
+  "time" : {
+    "start" : 1591337576003,
+    "stop" : 1591337599238,
+    "duration" : 23235
+  },
+  "status" : "passed",
+  "flaky" : true,
+  "beforeStages" : [ {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1591337548719,
+      "stop" : 1591337548719,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "去导航栏里选择频道",
+      "time" : {
+        "start" : 1591337580004,
+        "stop" : 1591337599238,
+        "duration" : 19234
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "sub_ele",
+        "value" : "'财经'"
+      }, {
+        "name" : "last_sub",
+        "value" : "'小说'"
+      } ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : true
+    } ],
+    "attachments" : [ {
+      "uid" : "7817191aa77358f5",
+      "name" : "log",
+      "source" : "7817191aa77358f5.txt",
+      "type" : "text/plain",
+      "size" : 374
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 1,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1591337607495,
+      "stop" : 1591337607495,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Script"
+  }, {
+    "name" : "suite",
+    "value" : "test_channel_app"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestChannel"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-03F992M"
+  }, {
+    "name" : "thread",
+    "value" : "5032-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Script.test_channel_app"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "55847e118d9a825b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591336607748,
+        "stop" : 1591336631780,
+        "duration" : 24032
+      }
+    }, {
+      "uid" : "573d9df29a6394eb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591327661388,
+        "stop" : 1591327684664,
+        "duration" : 23276
+      }
+    }, {
+      "uid" : "f926b96e935ca88c",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.WebDriverException: Message: An unknown server-side error occurred while processing the command. Original error: Swipe did not complete successfully",
+      "time" : {
+        "start" : 1591327502996,
+        "stop" : 1591327628271,
+        "duration" : 125275
+      }
+    }, {
+      "uid" : "117fb48964aa3c3e",
+      "status" : "broken",
+      "statusDetails" : "urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='localhost', port=4723): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0437B950>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))",
+      "time" : {
+        "start" : 1591327324174,
+        "stop" : 1591327324174,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "3ae6dad5a31b0033",
+      "status" : "broken",
+      "statusDetails" : "urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='localhost', port=4723): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x04075650>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))",
+      "time" : {
+        "start" : 1591327313820,
+        "stop" : 1591327313820,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "385f36cd808b95e5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591324858149,
+        "stop" : 1591324881137,
+        "duration" : 22988
+      }
+    }, {
+      "uid" : "d2a061ed19cb1267",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591324016679,
+        "stop" : 1591324039883,
+        "duration" : 23204
+      }
+    }, {
+      "uid" : "559b88e98c80bc00",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.WebDriverException: Message: An unknown server-side error occurred while processing the command. Original error: Swipe did not complete successfully",
+      "time" : {
+        "start" : 1591323820023,
+        "stop" : 1591323983716,
+        "duration" : 163693
+      }
+    }, {
+      "uid" : "936eb8c7f9a3a561",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591322093125,
+        "stop" : 1591322119652,
+        "duration" : 26527
+      }
+    }, {
+      "uid" : "24f83126bb43c7d7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591321177719,
+        "stop" : 1591321203694,
+        "duration" : 25975
+      }
+    }, {
+      "uid" : "29b5a6d8e3e4c51b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591320720411,
+        "stop" : 1591320743429,
+        "duration" : 23018
+      }
+    }, {
+      "uid" : "c6afa434d690bd05",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591254768054,
+        "stop" : 1591254797949,
+        "duration" : 29895
+      }
+    }, {
+      "uid" : "9930e261ac75f97d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591253133053,
+        "stop" : 1591253145445,
+        "duration" : 12392
+      }
+    }, {
+      "uid" : "71fea6a4b6ffc4c0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591249849962,
+        "stop" : 1591249892446,
+        "duration" : 42484
+      }
+    }, {
+      "uid" : "41d86a72fd8245f5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591249247381,
+        "stop" : 1591249290239,
+        "duration" : 42858
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "11a7418f6b0df34e.json",
+  "parameterValues" : [ ]
+}

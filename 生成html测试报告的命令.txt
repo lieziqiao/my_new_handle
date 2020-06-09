@@ -1,0 +1,2 @@
+allure生成测试HTMl测试报告的命令
+allure generate ./allure-xml -o ./allure-report --clean

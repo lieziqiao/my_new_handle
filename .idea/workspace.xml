@@ -1,0 +1,661 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="19d4de7a-55ca-4134-8dc2-720efbb6ed1a" name="默认更改列表" comment="">
+<<<<<<< HEAD
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Script/test_channel_app.py" beforeDir="false" afterPath="$PROJECT_DIR$/Script/test_channel_app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/attachments/14babe1b0d1e2f54.attach" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/attachments/17a0dbc861c160da.attach" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/attachments/290c752c693bc08a.attach" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/attachments/2c9ad197afe90dac.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/attachments/34361626db4855ac.attach" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/attachments/3b09723800cbd5ec.attach" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/attachments/3ebd3ac988c6f7ce.attach" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/attachments/5992d5ab0c992ef0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/attachments/5cb0db007af4645a.attach" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/attachments/6b112a1828903ff0.attach" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/attachments/71744c731b87955a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/attachments/738a437a9cb412a2.attach" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/attachments/746ba7e7d4bb167b.attach" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/attachments/7601e193fe41ff1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/attachments/79a1585d6c335159.attach" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/attachments/7c9855a0102f05b8.attach" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/attachments/7f1590a3caa2d728.attach" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/attachments/99b43e24666b93fd.attach" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/attachments/9cfe07b171e4031c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/attachments/acfe3cc89c88b0eb.attach" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/attachments/bcb4b3371c1b7cff.attach" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/attachments/c28ab8aa6fca7b26.attach" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/attachments/c32b6ca43926399.attach" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/attachments/c7c20218cfcb88f7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/attachments/c905149ac1ff3364.attach" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/attachments/d220bb9871d13e72.attach" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/attachments/d36e0be9bb0385da.attach" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/attachments/d6fa29ef060664f6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/attachments/e68eef26b1697244.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/attachments/e8b532511ffe9879.attach" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/attachments/ebfbca1f7b147813.attach" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/attachments/f88a8abefd168b65.attach" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/behaviors.csv" beforeDir="false" afterPath="$PROJECT_DIR$/allure-report/data/behaviors.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/behaviors.json" beforeDir="false" afterPath="$PROJECT_DIR$/allure-report/data/behaviors.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/packages.json" beforeDir="false" afterPath="$PROJECT_DIR$/allure-report/data/packages.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/suites.csv" beforeDir="false" afterPath="$PROJECT_DIR$/allure-report/data/suites.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/suites.json" beforeDir="false" afterPath="$PROJECT_DIR$/allure-report/data/suites.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/104bf0620be3c968.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/21e6b08911b05295.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/3706638c3e08cc07.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/3ca11ff5c9ce8c88.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/3eea03174281b74c.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/41c85fc3ae2c0829.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/504b4599971fdc64.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/51c270ac1f076330.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/5e07c8051e6d43a0.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/70bd95cd9aa4a6af.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/853f7a259580359f.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/9646e4cb24270f5f.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/b6f96531d8ffef9d.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/c3111a6812d1080c.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/c99dfa88dad796c0.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/d1170c1bde18d86c.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/d3a9a373947202d7.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/d5e189c66b06ca29.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/d81e7455ab2c8e67.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/da07b880a80b2752.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/e114d0aadf6ec7ed.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/e793222657eb181c.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/e87408ed6f693c7a.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/fd0b23e57d51ebdc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/timeline.json" beforeDir="false" afterPath="$PROJECT_DIR$/allure-report/data/timeline.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/export/influxDbData.txt" beforeDir="false" afterPath="$PROJECT_DIR$/allure-report/export/influxDbData.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/export/prometheusData.txt" beforeDir="false" afterPath="$PROJECT_DIR$/allure-report/export/prometheusData.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/history/duration-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/allure-report/history/duration-trend.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/history/history-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/allure-report/history/history-trend.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/history/history.json" beforeDir="false" afterPath="$PROJECT_DIR$/allure-report/history/history.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/history/retry-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/allure-report/history/retry-trend.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/widgets/behaviors.json" beforeDir="false" afterPath="$PROJECT_DIR$/allure-report/widgets/behaviors.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/widgets/duration-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/allure-report/widgets/duration-trend.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/widgets/duration.json" beforeDir="false" afterPath="$PROJECT_DIR$/allure-report/widgets/duration.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/widgets/history-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/allure-report/widgets/history-trend.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/widgets/retry-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/allure-report/widgets/retry-trend.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/widgets/severity.json" beforeDir="false" afterPath="$PROJECT_DIR$/allure-report/widgets/severity.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/widgets/status-chart.json" beforeDir="false" afterPath="$PROJECT_DIR$/allure-report/widgets/status-chart.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/widgets/suites.json" beforeDir="false" afterPath="$PROJECT_DIR$/allure-report/widgets/suites.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/widgets/summary.json" beforeDir="false" afterPath="$PROJECT_DIR$/allure-report/widgets/summary.json" afterDir="false" />
+=======
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/AppPO.iml" afterPath="$PROJECT_DIR$/.idea/AppPO.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Base_web/base_web.py" afterPath="$PROJECT_DIR$/Base_web/base_web.py" />
+>>>>>>> 2e0a6d294a30ddb37c48d620c1318e2f2e32d006
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="框架" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="base_web.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Base_web/base_web.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2877">
+              <caret line="42" column="15" lean-forward="true" selection-start-line="42" selection-start-column="15" selection-end-line="42" selection-end-column="15" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Base_web/base_web.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-11" />
+    <option name="y" value="-11" />
+    <option name="width" value="1934" />
+    <option name="height" value="1042" />
+  </component>
+  <component name="ProjectId" id="1bR16wGzaKyptd70e8rC0Ndc083" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="添加" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="框架" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="框架" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="框架" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="框架" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Base_web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ASUS001\Desktop\GatherFrame\Data\data_api" />
+      <recent name="C:\Users\ASUS001\Desktop\GatherFrame\Data" />
+      <recent name="C:\Users\ASUS001\Desktop\GatherFrame\Utils" />
+      <recent name="C:\Users\ASUS001\Desktop\GatherFrame\Data\data_app" />
+      <recent name="C:\Users\ASUS001\Desktop\GatherFrame\Script" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ASUS001\Desktop\GatherFrame\Script" />
+      <recent name="C:\Users\ASUS001\Desktop\GatherFrame\allure-xml" />
+      <recent name="C:\Users\ASUS001\Desktop\GatherFrame\Data" />
+      <recent name="C:\Users\ASUS001\Desktop\GatherFrame\Utils" />
+      <recent name="C:\Users\ASUS001\Desktop\GatherFrame\SCRIPT" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="false" name="pytest for test_channel_app.TestChannel" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Script" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="AppPO" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_channel_app.TestChannel&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method />
+    </configuration>
+    <configuration default="false" name="pytest for test_channel_app.TestChannel.test_02_channel" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Script" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="AppPO" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_channel_app.TestChannel.test_02_channel&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method />
+    </configuration>
+    <configuration default="false" name="pytest for test_channel_app.TestChannel.test_channel" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Script" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="AppPO" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_channel_app.TestChannel.test_channel&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method />
+    </configuration>
+    <configuration default="false" name="pytest for test_channel_app.TestLogin" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Script" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="AppPO" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_channel_app.TestLogin&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method />
+    </configuration>
+    <configuration default="false" name="pytest for test_channel_app.TestLogin.test_02_channel" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Script" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="AppPO" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_channel_app.TestLogin.test_02_channel&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="AppPO" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="AppPO" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="AppPO" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python tests.pytest for test_channel_app.TestChannel" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.pytest for test_channel_app.TestChannel.test_02_channel" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.pytest for test_channel_app.TestChannel.test_channel" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.pytest for test_channel_app.TestLogin" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.pytest for test_channel_app.TestLogin.test_02_channel" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python tests.pytest for test_channel_app.TestLogin.test_02_channel" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.pytest for test_channel_app.TestLogin" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.pytest for test_channel_app.TestChannel.test_channel" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.pytest for test_channel_app.TestChannel.test_02_channel" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.pytest for test_channel_app.TestChannel" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="19d4de7a-55ca-4134-8dc2-720efbb6ed1a" name="默认更改列表" comment="" />
+      <created>1588579920414</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588579920414</updated>
+      <workItem from="1588579931973" duration="88000" />
+      <workItem from="1588580031147" duration="150000" />
+      <workItem from="1588580197692" duration="4479000" />
+      <workItem from="1589095594156" duration="18872000" />
+      <workItem from="1589123650468" duration="750000" />
+      <workItem from="1589203809541" duration="2896000" />
+      <workItem from="1589206724324" duration="4858000" />
+      <workItem from="1589240878753" duration="811000" />
+      <workItem from="1589286109668" duration="2490000" />
+      <workItem from="1589330017952" duration="126000" />
+      <workItem from="1589370634356" duration="4790000" />
+      <workItem from="1589468420763" duration="12000" />
+      <workItem from="1589724702959" duration="1571000" />
+      <workItem from="1589802475280" duration="34000" />
+      <workItem from="1589897722996" duration="2685000" />
+      <workItem from="1589939334799" duration="6889000" />
+      <workItem from="1589967984442" duration="6386000" />
+      <workItem from="1589977441051" duration="576000" />
+      <workItem from="1589979262903" duration="18342000" />
+      <workItem from="1590041788926" duration="2606000" />
+      <workItem from="1590049811843" duration="1182000" />
+      <workItem from="1590051001088" duration="9439000" />
+      <workItem from="1590065277210" duration="1229000" />
+      <workItem from="1590114641439" duration="3642000" />
+      <workItem from="1590129051934" duration="11874000" />
+      <workItem from="1590371138321" duration="2662000" />
+      <workItem from="1590393967515" duration="5322000" />
+      <workItem from="1590479236219" duration="33784000" />
+      <workItem from="1590647041039" duration="5256000" />
+      <workItem from="1590655642903" duration="6875000" />
+      <workItem from="1590723215250" duration="1206000" />
+      <workItem from="1590847948333" duration="455000" />
+      <workItem from="1591003249003" duration="14648000" />
+      <workItem from="1591061434690" duration="248000" />
+      <workItem from="1591061711019" duration="10909000" />
+      <workItem from="1591080697525" duration="11726000" />
+      <workItem from="1591145241308" duration="1957000" />
+      <workItem from="1591148691603" duration="14089000" />
+      <workItem from="1591176197302" duration="294000" />
+      <workItem from="1591179734071" duration="2095000" />
+      <workItem from="1591231159297" duration="2544000" />
+      <workItem from="1591233735261" duration="761000" />
+      <workItem from="1591234573811" duration="15499000" />
+      <workItem from="1591270806146" duration="1819000" />
+      <workItem from="1591317329222" duration="7802000" />
+      <workItem from="1591326346472" duration="1707000" />
+      <workItem from="1591336268762" duration="7997000" />
+      <workItem from="1591344288865" duration="4714000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-11" y="-11" width="1934" height="1042" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17520921" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="找到" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="116" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590652659208">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="93" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1589105556107" />
+    <state x="116" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1590652659208" />
+    <state x="599" y="181" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590551276793">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="479" y="143" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1589242357314" />
+    <state x="599" y="181" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.860@0.0.1600.860" timestamp="1590551276793" />
+    <state x="524" y="120" key="FileChooserDialogImpl" timestamp="1590652706871">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="419" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1588580494673" />
+    <state x="524" y="120" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1590652706871" />
+    <state width="1493" height="247" key="GridCell.Tab.0.bottom" timestamp="1591349044841">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1222" height="324" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1591320676391" />
+    <state width="1493" height="247" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591349044841" />
+    <state width="1340" height="210" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1590723535245" />
+    <state width="1493" height="247" key="GridCell.Tab.0.center" timestamp="1591349044841">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1222" height="324" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1591320676390" />
+    <state width="1493" height="247" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1591349044841" />
+    <state width="1340" height="210" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1590723535245" />
+    <state width="1493" height="247" key="GridCell.Tab.0.left" timestamp="1591349044840">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1222" height="324" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1591320676390" />
+    <state width="1493" height="247" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1591349044840" />
+    <state width="1340" height="210" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1590723535245" />
+    <state width="1493" height="247" key="GridCell.Tab.0.right" timestamp="1591349044841">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1222" height="324" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1591320676391" />
+    <state width="1493" height="247" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1591349044841" />
+    <state width="1340" height="210" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1590723535245" />
+    <state x="175" y="0" key="SettingsEditor" timestamp="1590653065530">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="140" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1589107226875" />
+    <state x="175" y="0" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1590653065530" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1591318108494">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1591318108494" />
+    <state x="379" y="1" width="840" height="858" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1590485004461" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/GatherFrame$pytest_for_test_docking_TestDemo_test_01.coverage" NAME="pytest for test_docking.TestDemo.test_01 Coverage Results" MODIFIED="1590480989453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Script" />
+    <SUITE FILE_PATH="coverage/GatherFrame$pytest_for_test_channel_app_TestLogin_test_channel.coverage" NAME="pytest for test_channel_app.TestLogin.test_channel Coverage Results" MODIFIED="1591238787630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Script" />
+    <SUITE FILE_PATH="coverage/GatherFrame$pytest_in_test_place_py.coverage" NAME="pytest in test_place.py Coverage Results" MODIFIED="1591062103367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AppPo$pytest_for_test_login_no_enalbde_TestWangyiNoenablde.coverage" NAME="pytest for test_login_no_enalbde.TestWangyiNoenablde Coverage Results" MODIFIED="1589118731290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script" />
+    <SUITE FILE_PATH="coverage/AppPO$pytest_for_test_gologin_TestLogin.coverage" NAME="pytest for test_gologin.TestLogin Coverage Results" MODIFIED="1590051297551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SCRIPT" />
+    <SUITE FILE_PATH="coverage/GatherFrame$today.coverage" NAME="today Coverage Results" MODIFIED="1591068094117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Utils" />
+    <SUITE FILE_PATH="coverage/AppPO$pytest_for_test_baidu_TestBaidu_test_open_baidu.coverage" NAME="pytest for test_baidu.TestBaidu.test_open_baidu Coverage Results" MODIFIED="1590057701902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SCRIPT" />
+    <SUITE FILE_PATH="coverage/AppPO$pytest_for_test_baidu_TestBaidu.coverage" NAME="pytest for test_baidu.TestBaidu Coverage Results" MODIFIED="1590062826569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SCRIPT" />
+    <SUITE FILE_PATH="coverage/GatherFrame$pytest_for_test_docking_perfect_TestAlfredLogin_test_login_api.coverage" NAME="pytest for test_docking_perfect.TestAlfredLogin.test_login_api Coverage Results" MODIFIED="1590488275989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Script" />
+    <SUITE FILE_PATH="coverage/AppPO$get_location.coverage" NAME="get_location Coverage Results" MODIFIED="1590040709411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GatherFrame$plance.coverage" NAME="plance Coverage Results" MODIFIED="1591061872963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Utils" />
+    <SUITE FILE_PATH="coverage/AppPo$test_yaml_ne_login.coverage" NAME="test_yaml_ne_login Coverage Results" MODIFIED="1589105151176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script" />
+    <SUITE FILE_PATH="coverage/AppPo$test_fixture.coverage" NAME="test_fixture Coverage Results" MODIFIED="1588581474365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GatherFrame$pytest_for_test_today_api_TestToday_test_commit_order_api.coverage" NAME="pytest for test_today_api.TestToday.test_commit_order_api Coverage Results" MODIFIED="1591145828757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Script" />
+    <SUITE FILE_PATH="coverage/AppPo$pytest_for_test_yaml_ne_login_Test_Login.coverage" NAME="pytest for test_yaml_ne_login.Test_Login Coverage Results" MODIFIED="1589107232574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script" />
+    <SUITE FILE_PATH="coverage/GatherFrame$pytest_for_test_channel_app_TestChannel.coverage" NAME="pytest for test_channel_app.TestChannel Coverage Results" MODIFIED="1591319042326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Script" />
+    <SUITE FILE_PATH="coverage/GatherFrame$pytest_for_test_login_api_TestDemo_test_02_requests.coverage" NAME="pytest for test_login_api.TestDemo.test_02_requests Coverage Results" MODIFIED="1590484390198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Script" />
+    <SUITE FILE_PATH="coverage/GatherFrame$pytest_for_test_order500_api_TestToday_test_commit_order_api.coverage" NAME="pytest for test_order500_api.TestToday.test_commit_order_api Coverage Results" MODIFIED="1591080619036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Script" />
+    <SUITE FILE_PATH="coverage/GatherFrame$pytest_for_test_docking_TestDemo.coverage" NAME="pytest for test_docking.TestDemo Coverage Results" MODIFIED="1590480919602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Script" />
+    <SUITE FILE_PATH="coverage/AppPO$use_yaml.coverage" NAME="use_yaml Coverage Results" MODIFIED="1590040368207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AppPO$file_write.coverage" NAME="file_write Coverage Results" MODIFIED="1590040414916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AppPo$pytest_for_test_gologin_Test_Login.coverage" NAME="pytest for test_gologin.Test_Login Coverage Results" MODIFIED="1589105581826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script" />
+    <SUITE FILE_PATH="coverage/GatherFrame$pytest_for_test_today_api_TestToday.coverage" NAME="pytest for test_today_api.TestToday Coverage Results" MODIFIED="1591079708681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Script" />
+    <SUITE FILE_PATH="coverage/GatherFrame$pytest_for_test_channel_app_TestChannel_test_channel.coverage" NAME="pytest for test_channel_app.TestChannel.test_channel Coverage Results" MODIFIED="1591346524249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Script" />
+    <SUITE FILE_PATH="coverage/AppPo$test_zhiding_comback.coverage" NAME="test_zhiding_comback Coverage Results" MODIFIED="1588584669767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script" />
+    <SUITE FILE_PATH="coverage/GatherFrame$pytest_for_test_order500_api_TestOrder500.coverage" NAME="pytest for test_order500_api.TestOrder500 Coverage Results" MODIFIED="1591146632307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Script" />
+    <SUITE FILE_PATH="coverage/GatherFrame$pytest_for_test_docking_perfect_TestAlfredLogin.coverage" NAME="pytest for test_docking_perfect.TestAlfredLogin Coverage Results" MODIFIED="1590653285783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Script" />
+    <SUITE FILE_PATH="coverage/AppPo$pytest_for_test_toast_ne_TestToast.coverage" NAME="pytest for test_toast_ne.TestToast Coverage Results" MODIFIED="1589109449798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script" />
+    <SUITE FILE_PATH="coverage/GatherFrame$pytest_in_test_order500_api_py.coverage" NAME="pytest in test_order500_api.py Coverage Results" MODIFIED="1591080255339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Script" />
+    <SUITE FILE_PATH="coverage/GatherFrame$pytest_for_test_order500_api_TestToday.coverage" NAME="pytest for test_order500_api.TestToday Coverage Results" MODIFIED="1591092062254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Script" />
+    <SUITE FILE_PATH="coverage/GatherFrame$pytest_for_test_gongchang_TestGong.coverage" NAME="pytest for test_gongchang.TestGong Coverage Results" MODIFIED="1591148766744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GatherFrame$pytest_for_test_channel_app_TestChannel_test_02_channel.coverage" NAME="pytest for test_channel_app.TestChannel.test_02_channel Coverage Results" MODIFIED="1591342010381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Script" />
+    <SUITE FILE_PATH="coverage/AppPo$test_gologin__1_.coverage" NAME="test_gologin (1) Coverage Results" MODIFIED="1589105543164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script" />
+    <SUITE FILE_PATH="coverage/GatherFrame$pytest_for_test_today_api_TestToday_test_commit500_api.coverage" NAME="pytest for test_today_api.TestToday.test_commit500_api Coverage Results" MODIFIED="1591079528904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Script" />
+    <SUITE FILE_PATH="coverage/AppPo$test_ne_login.coverage" NAME="test_ne_login Coverage Results" MODIFIED="1588581946132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script" />
+    <SUITE FILE_PATH="coverage/AppPO$pytest_in_test_fixture_py.coverage" NAME="pytest in test_fixture.py Coverage Results" MODIFIED="1590040275792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AppPO$tese_check.coverage" NAME="tese_check Coverage Results" MODIFIED="1590062487821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SCRIPT" />
+    <SUITE FILE_PATH="coverage/GatherFrame$pytest_for_test_fixture_TestDemo1.coverage" NAME="pytest for test_fixture.TestDemo1 Coverage Results" MODIFIED="1591148856067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AppPo$pytest_for_test_login_no_enalbde_TestWangyiLogin_test_login_enabled.coverage" NAME="pytest for test_login_no_enalbde.TestWangyiLogin.test_login_enabled Coverage Results" MODIFIED="1589113542692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script" />
+    <SUITE FILE_PATH="coverage/GatherFrame$pytest_for_test_login_api_TestDemo_test_01.coverage" NAME="pytest for test_login_api.TestDemo.test_01 Coverage Results" MODIFIED="1590482844331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Script" />
+    <SUITE FILE_PATH="coverage/GatherFrame$pytest_for_test_today_api_TestToday_test_01_commit500.coverage" NAME="pytest for test_today_api.TestToday.test_01_commit500 Coverage Results" MODIFIED="1591005686792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Script" />
+    <SUITE FILE_PATH="coverage/GatherFrame$te_place.coverage" NAME="te_place Coverage Results" MODIFIED="1591062601712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GatherFrame$pytest_for_test_channel_app_TestLogin.coverage" NAME="pytest for test_channel_app.TestLogin Coverage Results" MODIFIED="1591241505213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Script" />
+    <SUITE FILE_PATH="coverage/GatherFrame$pytest_for_test_login_app_new_TestLoginNew.coverage" NAME="pytest for test_login_app_new.TestLoginNew Coverage Results" MODIFIED="1591165749392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Script" />
+    <SUITE FILE_PATH="coverage/GatherFrame$pytest_for_test_login_api_TestDemo_test_01_session.coverage" NAME="pytest for test_login_api.TestDemo.test_01_session Coverage Results" MODIFIED="1590484378028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Script" />
+    <SUITE FILE_PATH="coverage/newstart$pytest_for_test_ena_TestWangyiNoenablde.coverage" NAME="pytest for test_ena.TestWangyiNoenablde Coverage Results" MODIFIED="1589123674954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script" />
+    <SUITE FILE_PATH="coverage/newstart$pytest_in_test_ena_py.coverage" NAME="pytest in test_ena.py Coverage Results" MODIFIED="1589898424158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script" />
+    <SUITE FILE_PATH="coverage/GatherFrame$pytest_in_test_login_api_py.coverage" NAME="pytest in test_login_api.py Coverage Results" MODIFIED="1590482726419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Script" />
+    <SUITE FILE_PATH="coverage/newstart$pytest_for_test_gologin_Test_Login_test_login.coverage" NAME="pytest for test_gologin.Test_Login.test_login Coverage Results" MODIFIED="1589204427060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script" />
+    <SUITE FILE_PATH="coverage/GatherFrame$pytest_for_test_login_app_new_TestLogin.coverage" NAME="pytest for test_login_app_new.TestLogin Coverage Results" MODIFIED="1591163122804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Script" />
+    <SUITE FILE_PATH="coverage/GatherFrame$pytest_for_test_channel_app_TestLogin_test_02_channel.coverage" NAME="pytest for test_channel_app.TestLogin.test_02_channel Coverage Results" MODIFIED="1591242730653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Script" />
+    <SUITE FILE_PATH="coverage/newstart$pytest_for_test_gologin_Test_Login.coverage" NAME="pytest for test_gologin.Test_Login Coverage Results" MODIFIED="1589204713551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script" />
+    <SUITE FILE_PATH="coverage/AppPO$pytest_in_test_baidu_py.coverage" NAME="pytest in test_baidu.py Coverage Results" MODIFIED="1590056795460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SCRIPT" />
+    <SUITE FILE_PATH="coverage/GatherFrame$pytest_for_test_login_api_TestDemo.coverage" NAME="pytest for test_login_api.TestDemo Coverage Results" MODIFIED="1590485236734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Script" />
+    <SUITE FILE_PATH="coverage/AppPo$usingYaml.coverage" NAME="usingYaml Coverage Results" MODIFIED="1589108832342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GatherFrame$pytest_for_test_login_app_TestLogin.coverage" NAME="pytest for test_login_app.TestLogin Coverage Results" MODIFIED="1591163838360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Script" />
+    <SUITE FILE_PATH="coverage/AppPo$pytest_for_test_ena_TestWangyiNoenablde.coverage" NAME="pytest for test_ena.TestWangyiNoenablde Coverage Results" MODIFIED="1589120417326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Script/test_alfred_login_api_perfect.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Base_web/base_web.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2877">
+          <caret line="42" column="15" lean-forward="true" selection-start-line="42" selection-start-column="15" selection-end-line="42" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,14 @@
+[1m[31mERROR   [0m root:base_app.py:58 父类下面没有这个子类元素
+[32mINFO    [0m root:page_wangyi_first.py:90 滑屏了
+[1m[31mERROR   [0m root:base_app.py:58 父类下面没有这个子类元素
+[32mINFO    [0m root:page_wangyi_first.py:90 滑屏了
+[1m[31mERROR   [0m root:base_app.py:58 父类下面没有这个子类元素
+[32mINFO    [0m root:page_wangyi_first.py:90 滑屏了
+[1m[31mERROR   [0m root:base_app.py:58 父类下面没有这个子类元素
+[32mINFO    [0m root:page_wangyi_first.py:90 滑屏了
+[1m[31mERROR   [0m root:base_app.py:58 父类下面没有这个子类元素
+[32mINFO    [0m root:page_wangyi_first.py:90 滑屏了
+[1m[31mERROR   [0m root:base_app.py:58 父类下面没有这个子类元素
+[32mINFO    [0m root:page_wangyi_first.py:90 滑屏了
+[32mINFO    [0m root:page_wangyi_first.py:84 找到了
+[32mINFO    [0m root:page_wangyi_first.py:85 <appium.webdriver.webelement.WebElement (session="1f6474b1-9c64-4ffb-932b-58b3355a4382", element="b0b5af35-0517-4460-b230-b28c1aeb18e6")>
